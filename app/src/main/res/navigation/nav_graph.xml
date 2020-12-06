@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/SearchFragment">
+
+    <fragment
+        android:id="@+id/SearchFragment"
+        android:name="edu.utap.eztrade.view.SearchFragment"
+        android:label="Search"
+        tools:layout="@layout/fragment_search">
+        <action
+            android:id="@+id/action_SearchFragment_to_PostAddFragment"
+            app:destination="@id/PostAddFragment" />
+        <action
+            android:id="@+id/action_SearchFragment_to_FavoriteFragment"
+            app:destination="@id/FavoriteFragment" />
+        <action
+            android:id="@+id/action_SearchFragment_to_OneListingFragment"
+            app:destination="@id/OneListingFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/PostAddFragment"
+        android:name="edu.utap.eztrade.view.PostAddFragment"
+        android:label="Add Post"
+        tools:layout="@layout/fragment_postadd">
+        <action
+            android:id="@+id/action_PostAddFragment_to_SearchFragment"
+            app:destination="@id/SearchFragment" />
+        <argument
+            android:name="listingID"
+            app:argType="string"
+            android:defaultValue="" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/FavoriteFragment"
+        android:name="edu.utap.eztrade.view.FavoriteFragment"
+        android:label="Favorite"
+        tools:layout="@layout/fragment_favorite">
+        <action
+            android:id="@+id/action_FavoriteFragment_to_SearchFragment"
+            app:destination="@id/SearchFragment" />
+        <action
+            android:id="@+id/action_FavoriteFragment_to_OneListingFragment"
+            app:destination="@id/OneListingFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/OneListingFragment"
+        android:name="edu.utap.eztrade.view.OneListingFragment"
+        android:label="Listing"
+        tools:layout="@layout/fragment_one_listing">
+        <action
+            android:id="@+id/action_OneListingFragment_to_SearchFragment"
+            app:destination="@id/SearchFragment" />
+        <action
+            android:id="@+id/action_OneListingFragment_to_FavoriteFragment"
+            app:destination="@id/FavoriteFragment" />
+        <argument
+            android:name="position"
+            app:argType="integer"
+            android:defaultValue="-1" />
+        <argument
+            android:name="fromFragment"
+            app:argType="integer"
+            android:defaultValue="1" />
+    </fragment>
+
+</navigation>

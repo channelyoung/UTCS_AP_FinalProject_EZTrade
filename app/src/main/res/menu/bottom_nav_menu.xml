@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/SearchFragment"
+        android:icon="@android:drawable/ic_menu_search"
+        app:showAsAction="always"
+        android:title="Search"/>
+    <item
+        android:id="@+id/PostAddFragment"
+        android:icon="@android:drawable/ic_menu_add"
+        app:showAsAction="always"
+        android:title="Post"/>
+
+    <item
+        android:id="@+id/FavoriteFragment"
+        android:icon="@drawable/ic_favorite_border_white_24dp"
+        app:showAsAction="always"
+        android:title="Favorite"/>
+</menu>

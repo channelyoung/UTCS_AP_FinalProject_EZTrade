@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EZTrade</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Distance">
+        <item>ALL</item>
+        <item>&lt; 5 MILES</item>
+        <item>&lt; 10 MILES</item>
+        <item>&lt; 20 MILES</item>
+        <item>&lt; 50 MILES</item>
+    </string-array>
+</resources>
