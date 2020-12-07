@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="xxx" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34d68ef7-5545-44c3-9fe8-8bdc2b788afb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/default_dot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/tab_selector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/selected_dot.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/textbox_border.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/MainViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/ViewModelDBHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/ViewModelDBHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/model/UserFavorite.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/view/OneListingFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/view/OneListingFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/view/PostAddFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/view/PostAddFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_one_listing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_one_listing.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3_API_28_2]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lGivz23YjUDaYATmXXX7u4WdjN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_API_28_2" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-06T20:42:39.235Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="edu.utap.eztrade" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="EZTrade.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34d68ef7-5545-44c3-9fe8-8bdc2b788afb" name="Default Changelist" comment="" />
+      <created>1607230062558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607230062558</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="254" key="AndroidCreateResourceFileDialog" timestamp="1607272469574">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state x="428" y="254" key="AndroidCreateResourceFileDialog/-100.-1055.1920.1055/0.25.1680.941@0.25.1680.941" timestamp="1607272469574" />
+    <state width="518" height="461" key="DebuggerActiveHint" timestamp="1607293904039">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="518" height="461" key="DebuggerActiveHint/-100.-1055.1920.1055/0.25.1680.941@0.25.1680.941" timestamp="1607293904039" />
+    <state width="1636" height="250" key="GridCell.Tab.0.bottom" timestamp="1607293916873">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1636" height="250" key="GridCell.Tab.0.bottom/-100.-1055.1920.1055/0.25.1680.941@0.25.1680.941" timestamp="1607293916873" />
+    <state width="1636" height="250" key="GridCell.Tab.0.center" timestamp="1607293916872">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1636" height="250" key="GridCell.Tab.0.center/-100.-1055.1920.1055/0.25.1680.941@0.25.1680.941" timestamp="1607293916872" />
+    <state width="1636" height="250" key="GridCell.Tab.0.left" timestamp="1607293916872">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1636" height="250" key="GridCell.Tab.0.left/-100.-1055.1920.1055/0.25.1680.941@0.25.1680.941" timestamp="1607293916872" />
+    <state width="1636" height="250" key="GridCell.Tab.0.right" timestamp="1607293916873">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1636" height="250" key="GridCell.Tab.0.right/-100.-1055.1920.1055/0.25.1680.941@0.25.1680.941" timestamp="1607293916873" />
+    <state width="1636" height="250" key="GridCell.Tab.1.bottom" timestamp="1607293916875">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1636" height="250" key="GridCell.Tab.1.bottom/-100.-1055.1920.1055/0.25.1680.941@0.25.1680.941" timestamp="1607293916875" />
+    <state width="1636" height="250" key="GridCell.Tab.1.center" timestamp="1607293916874">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1636" height="250" key="GridCell.Tab.1.center/-100.-1055.1920.1055/0.25.1680.941@0.25.1680.941" timestamp="1607293916874" />
+    <state width="1636" height="250" key="GridCell.Tab.1.left" timestamp="1607293916874">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1636" height="250" key="GridCell.Tab.1.left/-100.-1055.1920.1055/0.25.1680.941@0.25.1680.941" timestamp="1607293916874" />
+    <state width="1636" height="250" key="GridCell.Tab.1.right" timestamp="1607293916875">
+      <screen x="0" y="25" width="1680" height="941" />
+    </state>
+    <state width="1636" height="250" key="GridCell.Tab.1.right/-100.-1055.1920.1055/0.25.1680.941@0.25.1680.941" timestamp="1607293916875" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/Auth.kt</url>
+          <line>45</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/MainActivity.kt</url>
+          <line>174</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/Auth.kt</url>
+          <line>51</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/MainViewModel.kt</url>
+          <line>77</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/edu/utap/eztrade/MainActivity.kt</url>
+          <line>157</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
